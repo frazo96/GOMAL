@@ -1,2 +1,2 @@
-# Astrodynamics-Library
-General Astrodynamics/ Orbital Mechanics Library
+# GOMAL (General Astrodynamics / Orbital Mechanics Library)
+Author: @Francisco Razo
